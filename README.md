@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 
 <p align="center">
-   <a href="https://github.com/Ketty0725/Tweak_Tool/">
+   <a href="https://github.com/Ketty0725/Meow-Time-Machine/">
     <img src="logo.jpg" alt="Logo" width="80" height="80">
   </a>
   <h2 align="center">喵喵时光机</h2>
