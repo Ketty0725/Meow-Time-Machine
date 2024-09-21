@@ -9,12 +9,12 @@
   <p align="center">
     即将发布，敬请期待
     <br />
-    <a href="https://github.com/Ketty0725/Tweak_Tool"><strong>探索本项目的文档 »</strong></a>
+    <a href="https://github.com/Ketty0725/Meow-Time-Machine"><strong>探索本项目的文档 »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Ketty0725/Tweak_Tool/issues">报告Bug</a>
+    <a href="https://github.com/Ketty0725/Meow-Time-Machine/issues">报告Bug</a>
     ·
-    <a href="https://github.com/Ketty0725/Tweak_Tool/issues">提出新特性</a>
+    <a href="https://github.com/Ketty0725/Meow-Time-Machine/issues">提出新特性</a>
   </p>
 
 </p>
@@ -41,16 +41,16 @@ sileo或saily添加软件源：https://ketty0725.github.io/repo/
 
 
 ### 演示
-[demo](https://github.com/Ketty0725/Tweak_Tool/assets/103920238/92a00d18-2751-4268-a5ab-0a9a0dc51b68)
+
 
 
 <!-- links -->
-[your-project-path]:Ketty0725/Tweak_Tool
-[forks-shield]: https://img.shields.io/github/forks/Ketty0725/Tweak_Tool.svg?style=flat-square
-[forks-url]: https://github.com/Ketty0725/Tweak_Tool/network/members
-[stars-shield]: https://img.shields.io/github/stars/Ketty0725/Tweak_Tool.svg?style=flat-square
-[stars-url]: https://github.com/Ketty0725/Tweak_Tool/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Ketty0725/Tweak_Tool.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/Ketty0725/Tweak_Tool.svg
-[license-shield]: https://img.shields.io/github/license/Ketty0725/Tweak_Tool.svg?style=flat-square
-[license-url]: https://github.com/Ketty0725/Tweak_Tool/blob/main/LICENSE
+[your-project-path]:Ketty0725/Meow-Time-Machine
+[forks-shield]: https://img.shields.io/github/forks/Ketty0725/Meow-Time-Machine.svg?style=flat-square
+[forks-url]: https://github.com/Ketty0725/Meow-Time-Machine/network/members
+[stars-shield]: https://img.shields.io/github/stars/Ketty0725/Meow-Time-Machine.svg?style=flat-square
+[stars-url]: https://github.com/Ketty0725/Meow-Time-Machine/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Ketty0725/Meow-Time-Machine.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/Ketty0725/Meow-Time-Machine.svg
+[license-shield]: https://img.shields.io/github/license/Ketty0725/Meow-Time-Machine.svg?style=flat-square
+[license-url]: https://github.com/Ketty0725/Meow-Time-Machine/blob/main/LICENSE
