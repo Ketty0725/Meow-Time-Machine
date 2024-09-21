@@ -2,7 +2,7 @@
 
 <p align="center">
    <a href="https://github.com/Ketty0725/Tweak_Tool/">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.jpg" alt="Logo" width="80" height="80">
   </a>
   <h2 align="center">喵喵时光机</h2>
   <h3 align="center">Meow Time Machine</h3>
