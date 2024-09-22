@@ -2,7 +2,7 @@
 
 <p align="center">
    <a href="https://github.com/Ketty0725/Meow-Time-Machine/">
-    <img src="logo.png" alt="Logo" width="500" height="500">
+    <img src="logo.png" alt="Logo" width="500">
   </a>
   <p align="center">
     即将发布，敬请期待
