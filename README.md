@@ -4,8 +4,6 @@
    <a href="https://github.com/Ketty0725/Meow-Time-Machine/">
     <img src="logo.png" alt="Logo" width="500" height="500">
   </a>
-  <h2 align="center">喵喵时光机</h2>
-  <h3 align="center">Meow Time Machine</h3>
   <p align="center">
     即将发布，敬请期待
     <br />
